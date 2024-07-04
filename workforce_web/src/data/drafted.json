@@ -1,0 +1,23 @@
+ [
+  {
+    "id": 1,
+    "employeeName": "John Doe",
+    "placedCompany": "ABC Corporation",
+    "profilePhoto": "https://example.com/profile-photo1.jpg",
+    "fromPeriod": "2022-01-01",
+    "toPeriod": "2022-12-31",
+    "placement": "Software Engineer",
+    "timesheetCycle": "Bi-weekly"
+  },
+  {
+    "id": 2,
+    "employeeName": "Jane Smith",
+    "placedCompany": "XYZ Corp",
+    "profilePhoto": "https://example.com/profile-photo2.jpg",
+    "fromPeriod": "2022-03-15",
+    "toPeriod": "2022-11-30",
+    "placement": "Data Scientist",
+    "timesheetCycle": "Monthly"
+  }
+
+]
